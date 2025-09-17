@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
