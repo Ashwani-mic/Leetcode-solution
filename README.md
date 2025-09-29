@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
+| [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
