@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
+| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [1610-xor-operation-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
