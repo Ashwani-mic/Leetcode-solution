@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
+| [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
