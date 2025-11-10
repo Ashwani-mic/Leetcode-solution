@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
