@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
