@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
