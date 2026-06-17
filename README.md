@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
