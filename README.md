@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
