@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
