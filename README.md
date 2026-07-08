@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 ## Math
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
