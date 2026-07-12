@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0907-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
