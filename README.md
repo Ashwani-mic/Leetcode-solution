@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
