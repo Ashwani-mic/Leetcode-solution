@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
