@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -199,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
