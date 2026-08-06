@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## String
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
