@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
+| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,8 +252,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
