@@ -3,9 +3,9 @@ class Solution {
        if(n<=1)return n;
        
        if(dp[n] !=0)return dp[n];
-       int ans = fib(n-1)+fib(n-2);
+       int ans = fibo(dp,n-1)+fibo(dp,n-2);
        dp[n] = ans;
-       return dp[n];
+       return ans;
 
     }
     public int fib(int n) {
