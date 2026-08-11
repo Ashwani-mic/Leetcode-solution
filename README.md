@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0907-koko-eating-bananas) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
