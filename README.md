@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
