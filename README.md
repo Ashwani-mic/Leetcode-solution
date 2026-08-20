@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
@@ -387,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
