@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Recursion
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 ## Sorting
 |  |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
