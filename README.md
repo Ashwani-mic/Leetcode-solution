@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
 | [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
@@ -394,8 +396,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
