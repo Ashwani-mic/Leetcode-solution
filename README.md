@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
