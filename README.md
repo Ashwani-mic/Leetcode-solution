@@ -435,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
