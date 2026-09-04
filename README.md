@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
