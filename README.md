@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Hash Table
 |  |
