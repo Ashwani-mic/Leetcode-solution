@@ -53,14 +53,14 @@ Each solution is organized in its own self-contained directory containing the so
 `	ext
 Leetcode-solution/
 +-- 0001-two-sum/
-¦   +-- 0001-two-sum.java          # Clean, optimal Java solution
-¦   +-- README.md                  # Problem description, constraints & examples
+Â¦   +-- 0001-two-sum.java          # Clean, optimal Java solution
+Â¦   +-- README.md                  # Problem description, constraints & examples
 +-- 0185-department-top-three-salaries/
-¦   +-- 0185-department-top-three-salaries.sql  # Window function / join query
-¦   +-- README.md                  # Schema description & problem statement
+Â¦   +-- 0185-department-top-three-salaries.sql  # Window function / join query
+Â¦   +-- README.md                  # Schema description & problem statement
 +-- 0200-number-of-islands/
-¦   +-- 0200-number-of-islands.java # Graph BFS/DFS traversal
-¦   +-- README.md
+Â¦   +-- 0200-number-of-islands.java # Graph BFS/DFS traversal
+Â¦   +-- README.md
 +-- stats.json                     # Automated LeetHub sync metadata & solution stats
 +-- README.md                      # Index & summary documentation
 `
@@ -95,3 +95,31 @@ Queries are standard ANSI SQL compatible with PostgreSQL, MySQL 8+, and Oracle. 
 
 ## ?? License
 This repository is open-source and available under the [MIT License](LICENSE).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+<!---LeetCode Topics End-->
