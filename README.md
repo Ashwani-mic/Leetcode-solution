@@ -1,520 +1,97 @@
-# Leetcode-solution
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+﻿# 🧩 LeetCode & SQL Problem Solving (Java & SQL)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
-| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
-| [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
-| [0063-unique-paths-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0064-minimum-path-sum) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0136-single-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
-| [0198-house-robber](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0198-house-robber) |
-| [0200-number-of-islands](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0200-number-of-islands) |
-| [0213-house-robber-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0213-house-robber-ii) |
-| [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
-| [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
-| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-| [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
-| [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
-| [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
-| [0907-koko-eating-bananas](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0907-koko-eating-bananas) |
-| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
-| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
-| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
-| [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0007-reverse-integer) |
-| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
-| [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
-| [0062-unique-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0062-unique-paths) |
-| [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
-| [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
-| [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
-| [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
-| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
-| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
-| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
-| [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
-| [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
-| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
-| [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
-| [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
-| [1610-xor-operation-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
-| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
-| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
-| [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
-| [0062-unique-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0062-unique-paths) |
-| [0063-unique-paths-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0064-minimum-path-sum) |
-| [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
-| [0072-edit-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0072-edit-distance) |
-| [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
-| [0198-house-robber](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0198-house-robber) |
-| [0213-house-robber-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0213-house-robber-ii) |
-| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
-| [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
-| [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
-| [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
-| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
-| [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
-| [0516-longest-palindromic-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
-| [0583-delete-operation-for-two-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
-| [0746-min-cost-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
-| [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
-| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
-| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
-| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
-| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0050-powx-n) |
-| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
-| [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
-| [0326-power-of-three](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0326-power-of-three) |
-| [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
-| [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
-| [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0070-climbing-stairs) |
-| [0509-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0509-fibonacci-number) |
-| [1013-fibonacci-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1013-fibonacci-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0137-single-number-ii) |
-| [0191-number-of-1-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0191-number-of-1-bits) |
-| [0222-count-complete-tree-nodes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
-| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
-| [0338-counting-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0338-counting-bits) |
-| [0342-power-of-four](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0342-power-of-four) |
-| [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
-| [0477-total-hamming-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0477-total-hamming-distance) |
-| [0693-binary-number-with-alternating-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0693-binary-number-with-alternating-bits) |
-| [1610-xor-operation-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1610-xor-operation-in-an-array) |
-| [2323-minimum-bit-flips-to-convert-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0191-number-of-1-bits](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0191-number-of-1-bits) |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-## String
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
-| [0012-integer-to-roman](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0012-integer-to-roman) |
-| [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
-| [0020-valid-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
-| [0038-count-and-say](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0038-count-and-say) |
-| [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
-| [0072-edit-distance](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0072-edit-distance) |
-| [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-| [0168-excel-sheet-column-title](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0168-excel-sheet-column-title) |
-| [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
-| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
-| [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
-| [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
-| [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
-| [0516-longest-palindromic-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0583-delete-operation-for-two-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
-| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
-| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
-| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0049-group-anagrams) |
-| [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0389-find-the-difference](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0389-find-the-difference) |
-| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
-## Binary Search
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0069-sqrtx](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0069-sqrtx) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0222-count-complete-tree-nodes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
-| [0278-first-bad-version](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0278-first-bad-version) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0374-guess-number-higher-or-lower](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
-| [0792-binary-search](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0792-binary-search) |
-| [0882-peak-index-in-a-mountain-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0882-peak-index-in-a-mountain-array) |
-| [0907-koko-eating-bananas](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0907-koko-eating-bananas) |
-## Interactive
-|  |
-| ------- |
-| [0278-first-bad-version](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0278-first-bad-version) |
-| [0374-guess-number-higher-or-lower](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
-| [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-| [0189-rotate-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0189-rotate-array) |
-| [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
-| [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0344-reverse-string) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0392-is-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0392-is-subsequence) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
-## Queue
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
-| [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
-| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Counting
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
-## Greedy
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0045-jump-game-ii) |
-| [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
-| [0680-valid-palindrome-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0680-valid-palindrome-ii) |
-## Backtracking
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0022-generate-parentheses) |
-| [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
-| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0020-valid-parentheses) |
-| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
-| [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0590-n-ary-tree-postorder-traversal) |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-| [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
-| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Design
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
-| [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-| [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-## Data Stream
-|  |
-| ------- |
-| [0901-online-stock-span](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0901-online-stock-span) |
-## Simulation
-|  |
-| ------- |
-| [0946-validate-stack-sequences](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0946-validate-stack-sequences) |
-| [0950-reveal-cards-in-increasing-order](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0950-reveal-cards-in-increasing-order) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Linked List
-|  |
-| ------- |
-| [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
-## Tree
-|  |
-| ------- |
-| [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
-| [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0110-balanced-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
-| [0199-binary-tree-right-side-view](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-| [0222-count-complete-tree-nodes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
-| [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
-| [0404-sum-of-left-leaves](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
-| [0429-n-ary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0429-n-ary-tree-level-order-traversal) |
-| [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
-| [0450-delete-node-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0590-n-ary-tree-postorder-traversal) |
-| [0617-merge-two-binary-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
-| [0623-add-one-row-to-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0623-add-one-row-to-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-## Depth-First Search
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
-| [0110-balanced-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
-| [0199-binary-tree-right-side-view](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0200-number-of-islands) |
-| [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
-| [0404-sum-of-left-leaves](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
-| [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
-| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
-| [0589-n-ary-tree-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0589-n-ary-tree-preorder-traversal) |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0590-n-ary-tree-postorder-traversal) |
-| [0617-merge-two-binary-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
-| [0623-add-one-row-to-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0623-add-one-row-to-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-| [0841-keys-and-rooms](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0841-keys-and-rooms) |
-| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
-| [1971-find-if-path-exists-in-graph](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-| [0200-number-of-islands](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0200-number-of-islands) |
-| [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
-| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
-| [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
-| [0404-sum-of-left-leaves](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
-| [0429-n-ary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0429-n-ary-tree-level-order-traversal) |
-| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
-| [0617-merge-two-binary-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
-| [0623-add-one-row-to-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0623-add-one-row-to-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0841-keys-and-rooms](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0841-keys-and-rooms) |
-| [1971-find-if-path-exists-in-graph](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
-## Binary Tree
-|  |
-| ------- |
-| [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
-| [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
-| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
-| [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
-| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0110-balanced-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0110-balanced-binary-tree) |
-| [0111-minimum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0113-path-sum-ii) |
-| [0129-sum-root-to-leaf-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0129-sum-root-to-leaf-numbers) |
-| [0199-binary-tree-right-side-view](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
-| [0222-count-complete-tree-nodes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
-| [0226-invert-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
-| [0404-sum-of-left-leaves](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0404-sum-of-left-leaves) |
-| [0437-path-sum-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0437-path-sum-iii) |
-| [0450-delete-node-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
-| [0617-merge-two-binary-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
-| [0623-add-one-row-to-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0623-add-one-row-to-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
-| [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0096-unique-binary-search-trees](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0096-unique-binary-search-trees) |
-| [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
-| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
-| [0700-search-in-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
-| [0701-insert-into-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
-| [0938-range-sum-of-bst](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0938-range-sum-of-bst) |
-| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
-## Binary Lifting
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Lowest Common Ancestor
-|  |
-| ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-## Cartesian Tree
-|  |
-| ------- |
-| [0654-maximum-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0654-maximum-binary-tree) |
-## Combinatorics
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0062-unique-paths) |
-## Matrix
-|  |
-| ------- |
-| [0063-unique-paths-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0063-unique-paths-ii) |
-| [0064-minimum-path-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0064-minimum-path-sum) |
-| [0200-number-of-islands](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0200-number-of-islands) |
-| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1277-count-square-submatrices-with-all-ones) |
-## Knapsack Problem
-|  |
-| ------- |
-| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
-| [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
-| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
-| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
-## Complete Knapsack
-|  |
-| ------- |
-| [0279-perfect-squares](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0279-perfect-squares) |
-| [0322-coin-change](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0322-coin-change) |
-## 0-1 Knapsack
-|  |
-| ------- |
-| [0416-partition-equal-subset-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
-| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
-## Longest Common Subsequence
-|  |
-| ------- |
-| [0583-delete-operation-for-two-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
-| [1143-longest-common-subsequence](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1143-longest-common-subsequence) |
-## Database
-|  |
-| ------- |
-| [0176-second-highest-salary](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0176-second-highest-salary) |
-| [0180-consecutive-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0180-consecutive-numbers) |
-| [0185-department-top-three-salaries](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0185-department-top-three-salaries) |
-| [0196-delete-duplicate-emails](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0196-delete-duplicate-emails) |
-| [0197-rising-temperature](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0197-rising-temperature) |
-| [0550-game-play-analysis-iv](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0550-game-play-analysis-iv) |
-| [0570-managers-with-at-least-5-direct-reports](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
-| [0577-employee-bonus](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0577-employee-bonus) |
-| [0584-find-customer-referee](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0584-find-customer-referee) |
-| [0585-investments-in-2016](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0585-investments-in-2016) |
-| [0595-big-countries](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0595-big-countries) |
-| [0596-classes-with-at-least-5-students](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0596-classes-with-at-least-5-students) |
-| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
-| [0610-triangle-judgement](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0610-triangle-judgement) |
-| [0619-biggest-single-number](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0619-biggest-single-number) |
-| [0620-not-boring-movies](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0620-not-boring-movies) |
-| [0626-exchange-seats](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0626-exchange-seats) |
-| [1045-customers-who-bought-all-products](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1045-customers-who-bought-all-products) |
-| [1068-product-sales-analysis-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1068-product-sales-analysis-i) |
-| [1070-product-sales-analysis-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1070-product-sales-analysis-iii) |
-| [1075-project-employees-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1075-project-employees-i) |
-| [1141-user-activity-for-the-past-30-days-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
-| [1148-article-views-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1148-article-views-i) |
-| [1164-product-price-at-a-given-date](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1164-product-price-at-a-given-date) |
-| [1174-immediate-food-delivery-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1174-immediate-food-delivery-ii) |
-| [1193-monthly-transactions-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1193-monthly-transactions-i) |
-| [1204-last-person-to-fit-in-the-bus](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1204-last-person-to-fit-in-the-bus) |
-| [1211-queries-quality-and-percentage](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1211-queries-quality-and-percentage) |
-| [1251-average-selling-price](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1251-average-selling-price) |
-| [1280-students-and-examinations](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1280-students-and-examinations) |
-| [1327-list-the-products-ordered-in-a-period](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1327-list-the-products-ordered-in-a-period) |
-| [1341-movie-rating](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1341-movie-rating) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1484-group-sold-products-by-the-date](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1484-group-sold-products-by-the-date) |
-| [1517-find-users-with-valid-e-mails](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1517-find-users-with-valid-e-mails) |
-| [1527-patients-with-a-condition](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1527-patients-with-a-condition) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-| [1633-percentage-of-users-attended-a-contest](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1633-percentage-of-users-attended-a-contest) |
-| [1661-average-time-of-process-per-machine](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1661-average-time-of-process-per-machine) |
-| [1667-fix-names-in-a-table](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1667-fix-names-in-a-table) |
-| [1683-invalid-tweets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1683-invalid-tweets) |
-| [1729-find-followers-count](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1729-find-followers-count) |
-| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
-| [1757-recyclable-and-low-fat-products](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
-| [1789-primary-department-for-each-employee](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1789-primary-department-for-each-employee) |
-| [1907-count-salary-categories](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1907-count-salary-categories) |
-| [1934-confirmation-rate](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1934-confirmation-rate) |
-| [1978-employees-whose-manager-left-the-company](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1978-employees-whose-manager-left-the-company) |
-| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
-## Union-Find
-|  |
-| ------- |
-| [0200-number-of-islands](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0200-number-of-islands) |
-| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
-| [1971-find-if-path-exists-in-graph](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
-## Graph Theory
-|  |
-| ------- |
-| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
-| [0841-keys-and-rooms](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0841-keys-and-rooms) |
-| [1971-find-if-path-exists-in-graph](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
-<!---LeetCode Topics End-->
+[![LeetCode Stats](https://img.shields.io/badge/Problems%20Solved-157-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![SQL](https://img.shields.io/badge/Language-SQL%20(MySQL%2FPostgreSQL)-CC292B?style=flat-square&logo=postgresql&logoColor=white)](https://www.mysql.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+A curated repository of **150+ LeetCode Data Structures & Algorithms solutions and SQL queries** written primarily in **Java** and **SQL**, created to prepare for Software Development Engineer (SDE) technical interviews.
+
+---
+
+## 📊 Summary of Solutions
+
+| Difficulty | Count | Percentage |
+|---|---|---|
+| 🟢 **Easy** | 84 | ~53.5% |
+| 🟡 **Medium** | 71 | ~45.2% |
+| 🔴 **Hard** | 2 | ~1.3% |
+| **Total Solved** | **157** | **100%** |
+
+### Language Breakdown
+- **Java (111 solutions)**: Core object-oriented implementations focusing on optimal time & space complexity, clean code, and standard library collections (HashMap, PriorityQueue, ArrayList, Deque).
+- **SQL (48 solutions)**: Advanced relational queries covering multi-table joins, window functions (DENSE_RANK(), ROW_NUMBER()), grouping & aggregations (GROUP BY, HAVING), subqueries, and CTEs.
+- **JavaScript (2 solutions)**: Prototype & functional algorithms.
+
+---
+
+## 🧠 Key Algorithmic Patterns & Topics Covered
+
+### 1. Data Structures
+- **Arrays & Hash Maps**: Frequency counting, two-pass hash maps, prefix sums, cycle detection, in-place rotation (Two Sum, Group Anagrams, Rotate Array).
+- **Strings**: Palindrome verification, anagrams, sliding window pattern matchers (Valid Palindrome, Longest Palindromic Subsequence).
+- **Linked Lists & Stacks**: Monotonic stacks, parenthesis matching, stack simulations (Validate Stack Sequences, Online Stock Span, Remove Adjacent Duplicates).
+- **Trees & Binary Search Trees**: Recursive DFS, BFS level-order traversal, LCA, BST validation & construction (Construct BST from Preorder, Maximum Binary Tree, Two Sum IV).
+- **Graphs**: Disjoint Set Union (DSU / Union-Find), Breadth-First Search (BFS), Depth-First Search (DFS) (Number of Provinces, Number of Islands, Keys and Rooms, Find if Path Exists in Graph).
+
+### 2. Algorithmic Techniques
+- **Dynamic Programming (1D & 2D)**: Memoization and bottom-up tabulation (House Robber I & II, Coin Change, Unique Paths II, Partition Equal Subset Sum, Longest Common Subsequence).
+- **Binary Search**: Classic search, search in rotated sorted arrays, binary search on answer space (Search in Rotated Array, Koko Eating Bananas, Peak Index in Mountain Array).
+- **Greedy & Bit Manipulation**: State tracking, bitwise XOR operations (Jump Game I & II, XOR Operation in Array, Minimum Bit Flips).
+
+### 3. Database & SQL Queries
+- **Joins & Set Operations**: LEFT JOIN, INNER JOIN, self-joins, cross joins (Combine Two Tables, Replace Employee ID with Unique Identifier).
+- **Window Functions & Analytics**: DENSE_RANK(), rolling averages, consecutive occurrences (Department Top Three Salaries, Consecutive Numbers, Last Person to Fit in Bus).
+- **Aggregations & Filtering**: CASE WHEN, conditional sums, GROUP BY, HAVING (Immediate Food Delivery, Confirmation Rate, Monthly Transactions).
+
+---
+
+## 📂 Repository Structure
+
+Each solution is organized in its own self-contained directory containing the source code and problem description:
+
+`	ext
+Leetcode-solution/
+├── 0001-two-sum/
+│   ├── 0001-two-sum.java          # Clean, optimal Java solution
+│   └── README.md                  # Problem description, constraints & examples
+├── 0185-department-top-three-salaries/
+│   ├── 0185-department-top-three-salaries.sql  # Window function / join query
+│   └── README.md                  # Schema description & problem statement
+├── 0200-number-of-islands/
+│   ├── 0200-number-of-islands.java # Graph BFS/DFS traversal
+│   └── README.md
+├── stats.json                     # Automated LeetHub sync metadata & solution stats
+└── README.md                      # Index & summary documentation
+`
+
+---
+
+## 💻 How to Run Solutions Locally
+
+### Java Solutions
+Compile and test any solution with the Java Development Kit (JDK 8+):
+
+`ash
+# Navigate to a specific problem directory
+cd 0001-two-sum
+
+# Compile the Java file
+javac 0001-two-sum.java
+`
+
+### SQL Queries
+Queries are standard ANSI SQL compatible with PostgreSQL, MySQL 8+, and Oracle. You can run them against any SQL instance or test environment.
+
+---
+
+## 📈 Goals & Continuous Learning
+- [x] Complete NeetCode 150 core pattern practice
+- [x] Master SQL 50 interview questions
+- [ ] Practice advanced Hard DP and Graph algorithms (Topological Sort, Dijkstra)
+- [ ] Participate regularly in LeetCode Biweekly and Weekly contests
+
+---
+
+## 📄 License
+This repository is open-source and available under the [MIT License](LICENSE).
