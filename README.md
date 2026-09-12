@@ -1,22 +1,22 @@
-﻿# 🧩 LeetCode & SQL Problem Solving (Java & SQL)
+# ?? LeetCode & SQL Problem Solving (Java & SQL)
 
-[![LeetCode Stats](https://img.shields.io/badge/Problems%20Solved-157-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode Stats](https://img.shields.io/badge/Problems%20Solved-250%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 [![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/Language-SQL%20(MySQL%2FPostgreSQL)-CC292B?style=flat-square&logo=postgresql&logoColor=white)](https://www.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-A curated repository of **150+ LeetCode Data Structures & Algorithms solutions and SQL queries** written primarily in **Java** and **SQL**, created to prepare for Software Development Engineer (SDE) technical interviews.
+A curated repository of **250+ LeetCode Data Structures & Algorithms solutions and SQL queries** written primarily in **Java** and **SQL**, created to prepare for Software Development Engineer (SDE) technical interviews.
 
 ---
 
-## 📊 Summary of Solutions
+## ?? Summary of Solutions
 
 | Difficulty | Count | Percentage |
 |---|---|---|
-| 🟢 **Easy** | 84 | ~53.5% |
-| 🟡 **Medium** | 71 | ~45.2% |
-| 🔴 **Hard** | 2 | ~1.3% |
-| **Total Solved** | **157** | **100%** |
+| ?? **Easy** | 84 | ~53.5% |
+| ?? **Medium** | 71 | ~45.2% |
+| ?? **Hard** | 2 | ~1.3% |
+| **Total Solved** | **250+** | **100%** |
 
 ### Language Breakdown
 - **Java (111 solutions)**: Core object-oriented implementations focusing on optimal time & space complexity, clean code, and standard library collections (HashMap, PriorityQueue, ArrayList, Deque).
@@ -25,7 +25,7 @@ A curated repository of **150+ LeetCode Data Structures & Algorithms solutions a
 
 ---
 
-## 🧠 Key Algorithmic Patterns & Topics Covered
+## ?? Key Algorithmic Patterns & Topics Covered
 
 ### 1. Data Structures
 - **Arrays & Hash Maps**: Frequency counting, two-pass hash maps, prefix sums, cycle detection, in-place rotation (Two Sum, Group Anagrams, Rotate Array).
@@ -46,28 +46,28 @@ A curated repository of **150+ LeetCode Data Structures & Algorithms solutions a
 
 ---
 
-## 📂 Repository Structure
+## ?? Repository Structure
 
 Each solution is organized in its own self-contained directory containing the source code and problem description:
 
 `	ext
 Leetcode-solution/
-├── 0001-two-sum/
-│   ├── 0001-two-sum.java          # Clean, optimal Java solution
-│   └── README.md                  # Problem description, constraints & examples
-├── 0185-department-top-three-salaries/
-│   ├── 0185-department-top-three-salaries.sql  # Window function / join query
-│   └── README.md                  # Schema description & problem statement
-├── 0200-number-of-islands/
-│   ├── 0200-number-of-islands.java # Graph BFS/DFS traversal
-│   └── README.md
-├── stats.json                     # Automated LeetHub sync metadata & solution stats
-└── README.md                      # Index & summary documentation
++-- 0001-two-sum/
+�   +-- 0001-two-sum.java          # Clean, optimal Java solution
+�   +-- README.md                  # Problem description, constraints & examples
++-- 0185-department-top-three-salaries/
+�   +-- 0185-department-top-three-salaries.sql  # Window function / join query
+�   +-- README.md                  # Schema description & problem statement
++-- 0200-number-of-islands/
+�   +-- 0200-number-of-islands.java # Graph BFS/DFS traversal
+�   +-- README.md
++-- stats.json                     # Automated LeetHub sync metadata & solution stats
++-- README.md                      # Index & summary documentation
 `
 
 ---
 
-## 💻 How to Run Solutions Locally
+## ?? How to Run Solutions Locally
 
 ### Java Solutions
 Compile and test any solution with the Java Development Kit (JDK 8+):
@@ -85,7 +85,7 @@ Queries are standard ANSI SQL compatible with PostgreSQL, MySQL 8+, and Oracle. 
 
 ---
 
-## 📈 Goals & Continuous Learning
+## ?? Goals & Continuous Learning
 - [x] Complete NeetCode 150 core pattern practice
 - [x] Master SQL 50 interview questions
 - [ ] Practice advanced Hard DP and Graph algorithms (Topological Sort, Dijkstra)
@@ -93,5 +93,5 @@ Queries are standard ANSI SQL compatible with PostgreSQL, MySQL 8+, and Oracle. 
 
 ---
 
-## 📄 License
+## ?? License
 This repository is open-source and available under the [MIT License](LICENSE).
