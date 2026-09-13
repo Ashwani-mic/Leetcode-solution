@@ -122,4 +122,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
