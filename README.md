@@ -102,23 +102,27 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
