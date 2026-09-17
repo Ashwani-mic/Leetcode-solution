@@ -204,4 +204,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
