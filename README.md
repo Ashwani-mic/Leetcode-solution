@@ -208,4 +208,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0176-second-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
