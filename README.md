@@ -223,6 +223,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
@@ -237,6 +238,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -256,4 +258,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
