@@ -187,6 +187,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
@@ -218,6 +219,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0206-reverse-linked-list) |
