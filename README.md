@@ -208,6 +208,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,4 +263,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
