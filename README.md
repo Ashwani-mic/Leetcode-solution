@@ -213,6 +213,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,11 +280,13 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
