@@ -248,6 +248,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -272,6 +273,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -298,4 +300,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
