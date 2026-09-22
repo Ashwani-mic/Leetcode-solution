@@ -212,6 +212,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -304,4 +305,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
