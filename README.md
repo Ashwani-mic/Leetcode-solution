@@ -142,6 +142,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -216,12 +218,14 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
