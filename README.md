@@ -103,6 +103,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
@@ -110,6 +111,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
@@ -335,12 +337,14 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
