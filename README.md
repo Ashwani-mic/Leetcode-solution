@@ -101,6 +101,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
@@ -217,6 +218,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
@@ -330,9 +332,11 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
