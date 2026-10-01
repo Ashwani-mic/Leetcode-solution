@@ -107,6 +107,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0101-symmetric-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0785-is-graph-bipartite) |
@@ -305,6 +306,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0151-reverse-words-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -347,6 +349,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,8 +360,13 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0102-binary-tree-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
