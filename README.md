@@ -152,6 +152,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0014-longest-common-prefix](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -368,6 +369,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,7 +377,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
