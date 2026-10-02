@@ -156,6 +156,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
@@ -374,4 +375,5 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
