@@ -155,6 +155,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
@@ -369,4 +370,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
