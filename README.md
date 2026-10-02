@@ -157,6 +157,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -372,6 +373,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,10 +384,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
