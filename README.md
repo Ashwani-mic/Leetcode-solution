@@ -151,6 +151,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
@@ -228,6 +229,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 ## Stack
 |  |
@@ -287,6 +289,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
 ## Sorting
 |  |
