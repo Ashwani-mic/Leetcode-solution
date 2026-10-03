@@ -172,6 +172,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Topological Sort
 |  |
 | ------- |
@@ -220,6 +221,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -313,6 +315,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -383,6 +386,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
