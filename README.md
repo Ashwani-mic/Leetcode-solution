@@ -173,6 +173,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
@@ -320,6 +321,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0205-isomorphic-strings](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -391,6 +393,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
