@@ -158,6 +158,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0303-range-sum-query-immutable](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +178,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
@@ -409,6 +411,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
