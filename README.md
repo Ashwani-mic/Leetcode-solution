@@ -162,6 +162,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -183,6 +184,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Topological Sort
 |  |
@@ -405,6 +407,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0567-permutation-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -415,6 +418,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0303-range-sum-query-immutable](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
