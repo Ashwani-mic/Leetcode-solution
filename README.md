@@ -165,6 +165,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
@@ -186,6 +187,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Topological Sort
 |  |
 | ------- |
@@ -318,6 +320,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0002-add-two-numbers](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -409,6 +412,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0904-fruit-into-baskets](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -421,4 +425,5 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
