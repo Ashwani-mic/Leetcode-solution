@@ -349,6 +349,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2299-strong-password-checker-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/2299-strong-password-checker-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
