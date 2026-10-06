@@ -191,6 +191,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Topological Sort
 |  |
 | ------- |
@@ -347,6 +348,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Bracket Sequences
 |  |
 | ------- |
