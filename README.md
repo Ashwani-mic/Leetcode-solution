@@ -221,6 +221,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -378,6 +379,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0225-implement-stack-using-queues](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -395,6 +397,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,12 +410,14 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -459,4 +464,8 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0657-robot-return-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
