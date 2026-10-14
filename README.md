@@ -173,6 +173,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Shortest Path
 |  |
 | ------- |
@@ -281,6 +283,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0011-container-with-most-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Database
 |  |
 | ------- |
