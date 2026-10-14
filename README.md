@@ -169,6 +169,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0930-binary-subarrays-with-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
@@ -223,6 +224,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0743-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
