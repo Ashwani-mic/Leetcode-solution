@@ -152,6 +152,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0001-two-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
@@ -242,6 +243,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -327,6 +329,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
