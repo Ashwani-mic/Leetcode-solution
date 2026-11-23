@@ -153,6 +153,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0011-container-with-most-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -245,6 +246,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -333,6 +335,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
