@@ -158,6 +158,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -251,6 +252,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
@@ -336,6 +338,7 @@ This repository is open-source and available under the [MIT License](LICENSE).
 | ------- |
 | [0015-3sum](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -502,4 +505,12 @@ This repository is open-source and available under the [MIT License](LICENSE).
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashwani-mic/Leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
